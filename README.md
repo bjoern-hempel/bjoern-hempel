@@ -4,7 +4,7 @@
 
 <img src="https://github.com/bjoern-hempel/welcome/blob/master/images/bjoern-hempel.jpg" width="150">
 
-[<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
+[<img src="https://github.com/bjoern-hempel/welcome/blob/master/images/english.png" width="15"> Hello!](README.md) [<img src="https://github.com/bjoern-hempel/welcome/blob/master/images/german.png" width="15"> Hallo!](README.de.md) [<img src="https://github.com/bjoern-hempel/welcome/blob/master/images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
 Hi, I'm Björn Hempel and I work at [ressourcenmangel integral GmbH](https://rsm-integral.de/) as a Senior Software
 Developer (symfony 6.3), Senior Software Architect and DevOps Engineer. My main tasks include planning, building
