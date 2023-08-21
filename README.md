@@ -30,8 +30,8 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 
 ## 2.1 Developer of ixnode packages (Composer PHP packages)
 
-* https://github.com/ixnode
-* https://packagist.org/users/ixnode/
+* https://github.com/ixnode (2023)
+* https://packagist.org/users/ixnode/ (2023)
 
 ## 2.2 Tutorials
 
