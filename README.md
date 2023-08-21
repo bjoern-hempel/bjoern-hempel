@@ -1,6 +1,6 @@
 # Björn Hempel
 
-<img src="https://github.com/bjoern-hempel/welcome/blob/master/images/bjoern-hempel.jpg" width="150">
+<img src="images/bjoern-hempel.jpg" width="150">
 
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
