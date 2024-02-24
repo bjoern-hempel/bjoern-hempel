@@ -87,6 +87,7 @@ de la Computación) con una especialización en Inteligencia Artificial y Aprend
 * [YADS - A library to keep everything schematized in one place](https://github.com/ixnode/yads) &mdash; (2021)
 * [PHPVault - A library to allows a secure deployment process with .env files](https://github.com/ixnode/php-vault) &mdash; (2021)
 * [A PHP WebCrawler](https://github.com/bjoern-hempel/php-web-crawler) &mdash; (2019)
+* [A PHP WebCrawler (Ixnode)](https://github.com/ixnode/php-web-crawler) &mdash; (2024)
 * [A PNG Creator from latex formulas](https://github.com/bjoern-hempel/php-latex-2-png) &mdash; (2018)
 
 ## 2.7 Javascript
