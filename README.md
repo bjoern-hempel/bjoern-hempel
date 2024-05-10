@@ -5,7 +5,7 @@
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
 Hi, I'm Björn Hempel and I work at [ressourcenmangel integral GmbH](https://rsm-integral.de/) as a Senior Software
-Developer (symfony 6.3), Senior Software Architect and DevOps Engineer. My main tasks include planning, building
+Developer (Symfony 6.3), Senior Software Architect and DevOps Engineer. My main tasks include planning, building
 and ensuring the proper operation of the software created by ressourcenmangel integral GmbH, as well as the
 required system landscape. Furthermore I am responsible for ensuring a constant code quality for the created
 software using modern software methods like TDD and CI/CD.
