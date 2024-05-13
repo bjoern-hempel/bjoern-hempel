@@ -4,22 +4,17 @@
 
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
-Hi, I'm Björn Hempel and I work at [ressourcenmangel integral GmbH](https://rsm-integral.de/) as a Senior Software
-Developer (Symfony 6.3), Senior Software Architect and DevOps Engineer. My main tasks include planning, building
-and ensuring the proper operation of the software created by ressourcenmangel integral GmbH, as well as the
-required system landscape. Furthermore I am responsible for ensuring a constant code quality for the created
-software using modern software methods like TDD and CI/CD.
 
-I have extensive experience in the creation, planning and operation of complex software components (service oriented
-architecture - SOA), as well as the required system landscapes.
+Hi, I'm Björn Hempel and I work at [ressourcenmangel integral GmbH](https://rsm-integral.de/) as Lead Software Developer (Symfony 6.4, Pimcore 11.x), Software Architect and DevOps Engineer. My main tasks include planning, building and ensuring the proper operation of the software created by ressourcenmangel integral GmbH, as well as the required system landscape. I am also responsible for ensuring consistent code quality for the software created using modern software methods such as TDD and CI/CD.
 
-In my time before ressourcenmangel I was responsible for and developed ad portals in the publishing industry. This
-was followed by the development of usability tools for business-critical online processes for various clients. The
-development and use of modern implementation and quality methods were always a companion in the achievement of my task
-goals.
+I have extensive experience in the creation, planning and operation of complex software components (service oriented architecture - SOA), as well as the required system landscapes.
 
-Besides my job, I successfully completed my Bachelor's degree in Computational Science (Mathematics, Physics, Computer
-Science) with a minor in Artificial Intelligence and Machine Learning at the [TU-Chemnitz](https://www.tu-chemnitz.de).
+In my time before ressourcenmangel, I supervised and developed advertising portals in the publishing industry. This was followed by the development of Rest-API services for business-critical online processes for various customers. Thanks to independently selected and extensive test and deployment strategies, these services are very stable and can be easily maintained and extended by our team. The development and use of modern implementation and quality methods are always a companion in achieving my task goals.
+
+In my private time, I work extensively with localization databases and finding geodata based on WGS 84 coordinates. Finding the nearest places and locations to a given location is the primary goal. PostgreSQL/PostGIS is used for this.
+
+Besides my job, I successfully completed my Bachelor's degree in Computational Science (Mathematics, Physics, Computer Science) with a minor in Artificial Intelligence and Machine Learning at the [TU-Chemnitz](https://www.tu-chemnitz.de). The thesis, which deals with the classification and recognition of image objects (Image Classification), as well as the training of corresponding image models using Convolutional Neural Network (CNN) and Transfer Learning, can be found here: 
+[Investigation of strategies for image classification on small training data sets](https://www.hempel.li/Personal/bachelor-thesis.pdf)
 
 ## 1.1 Profiles
 
