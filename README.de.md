@@ -8,7 +8,7 @@ Hallo. Ich bin Björn Hempel und bei der [ressourcenmangel integral GmbH](https:
 
 Ich verfüge über umfangreiche Erfahrungen bei der Erstellung, Planung und Betrieb von komplexen Softwarekomponenten (service oriented architecture - SOA), sowie den benötigten Systemlandschaften.
 
-In meiner Zeit vor ressourcenmangel betreute und entwickelte ich unter anderem Anzeigenportale in der Verlagsbranche. Für verschiedene Kunden folgten die Entwicklungen von Rest-API Services für geschäftskritische Online-Prozesse. Aufgrund von selbstständig gewählten und umfangreichen Test- und Deploymentstrategien laufen diese sehr stabil und sind bei uns im Team gut wart- und erweiterbar. Die Entwicklung und Verwendung von modernen Umsetzungs- und Qualitätsmethoden waren stets ein Begleiter in der Erreichung meiner Aufgabenziele.
+In meiner Zeit vor ressourcenmangel betreute und entwickelte ich unter anderem Anzeigenportale in der Verlagsbranche. Für verschiedene Kunden folgten die Entwicklungen von Rest-API Services für geschäftskritische Online-Prozesse. Aufgrund von selbstständig gewählten und umfangreichen Test- und Deploymentstrategien laufen diese sehr stabil und sind bei uns im Team gut wart- und erweiterbar. Die Entwicklung und Verwendung von modernen Umsetzungs- und Qualitätsmethoden waren und sind stets ein Begleiter in der Erreichung meiner Aufgabenziele.
 
 Privat beschäftige ich mich ausgiebig mit Lokalisierungsdatenbanken und dem Finden von Geodaten auf Basis von WGS 84 Koordinaten. Das Finden von nächstgelegenen Orten und Plätzen zu einem gegebenen oder gesuchten Standort sind hierbei das primäre Ziel. Dabei kommt PostgreSQL/PostGIS zum Einsatz.
 
