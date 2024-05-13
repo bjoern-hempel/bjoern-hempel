@@ -25,6 +25,7 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 
 ## 1.1 Profile
 
+* **Persönlich**: [hempel.li](https://www.hempel.li/)
 * **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
 * **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
 
