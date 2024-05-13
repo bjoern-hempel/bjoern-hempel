@@ -46,6 +46,13 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
   * Standortbestimmungsdienst
   * Symfony / API Platform
   * Auf PostgreSQL/PostGIS aufbauend
+  * Tools
+    * Symfony 6.3.11
+    * PHP 8.2.17
+    * PHPUnit 9.6.15
+    * PHPStan 1.10.50
+    * Semantic Versioning 2.0.0
+    * PSR12
 
 ## 2.3 Anleitungen
 
