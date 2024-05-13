@@ -4,24 +4,16 @@
 
 [<img src="images/english.png" width="15"> Hello!](README.md) [<img src="images/german.png" width="15"> Hallo!](README.de.md) [<img src="images/spanish.png" width="15"> ¡Hola!](README.es.md)
 
-Hallo. Ich bin Björn Hempel und bei der [ressourcenmangel integral GmbH](https://rsm-integral.de/) als
-Senior Software Developer (symfony 6.3), Senior Architekt und DevOps Engineer tätig. Zu meinen Hauptaufgaben
-zählen die Planung, der Aufbau und die Sicherstellung des ordentlichen Betriebes der von der ressourcenmangel
-integral GmbH erstellten Software, sowie der benötigten Systemlandschaft. Weiterhin bin ich für die Sicherstellung
-einer konstanten Code-Qualität für die erstellten Software mittels moderner Softwaremethoden wie TDD und CI/CD
-verantwortlich.
+Hallo. Ich bin Björn Hempel und bei der [ressourcenmangel integral GmbH](https://rsm-integral.de/) als Lead Software Developer (Symfony 6.4, Pimcore 11.x), Software-Architekt und DevOps Engineer tätig. Zu meinen Hauptaufgaben zählen die Planung, der Aufbau und die Sicherstellung des ordentlichen Betriebes der von der ressourcenmangel integral GmbH erstellten Software, sowie der benötigten Systemlandschaft. Weiterhin bin ich für die Sicherstellung einer konstanten Code-Qualität für die erstellten Software mittels moderner Softwaremethoden wie TDD und CI/CD verantwortlich.
 
-Ich verfüge über umfangreiche Erfahrungen bei der Erstellung, Planung und Betrieb von komplexen Softwarekomponenten
-(service oriented architecture - SOA), sowie den benötigten Systemlandschaften.
+Ich verfüge über umfangreiche Erfahrungen bei der Erstellung, Planung und Betrieb von komplexen Softwarekomponenten (service oriented architecture - SOA), sowie den benötigten Systemlandschaften.
 
-In meiner Zeit vor ressourcenmangel betreute und entwickelte ich unter anderem Anzeigenportale in der Verlagsbranche.
-Für verschiedene Kunden folgten die Entwicklungen von Usability-Tools für geschäftskritische Online-Prozesse.
-Die Entwicklung und Verwendung von modernen Umsetzungs- und Qualitätsmethoden waren stets ein Begleiter in der
-Erreichung meiner Aufgabenziele.
+In meiner Zeit vor ressourcenmangel betreute und entwickelte ich unter anderem Anzeigenportale in der Verlagsbranche. Für verschiedene Kunden folgten die Entwicklungen von Rest-API Services für geschäftskritische Online-Prozesse. Aufgrund von selbstständig gewählten und umfangreichen Test- und Deploymentstrategien laufen diese sehr stabil und sind bei uns im Team gut wart- und erweiterbar. Die Entwicklung und Verwendung von modernen Umsetzungs- und Qualitätsmethoden waren stets ein Begleiter in der Erreichung meiner Aufgabenziele.
 
-Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrichtung Computational Science
-(Mathematik, Physik, Informatik) mit Nebenfach Künstliche Intelligenz und Maschinelles Lernen an der
-[TU-Chemnitz](https://www.tu-chemnitz.de) machen.
+Privat beschäftige ich mich ausgiebig mit Lokalisierungsdatenbanken und dem Finden von Geodaten auf Basis von WGS 84 Koordinaten. Das Finden von nächstgelegenen Orten und Plätzen zu einem gegebenen oder gesuchten Standort sind hierbei das primäre Ziel. Dabei kommt PostgreSQL/PostGIS zum Einsatz.
+
+Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrichtung Computational Science (Mathematik, Physik, Informatik) mit Nebenfach Künstliche Intelligenz und Maschinelles Lernen an der [TU-Chemnitz](https://www.tu-chemnitz.de) machen. Die Abschlussarbeit, bei der es um die Klassifizierung und die Erkennung von Bildobjekten (Image Classification), sowie dem Trainieren von entsprechenden Bildmodellen mittels Convolutional Neural Network (CNN) und Transfer Learning geht, findet sich hier: 
+[Investigation of strategies for image classification on small training data sets](https://www.hempel.li/Personal/bachelor-thesis.pdf).
 
 ## 1.1 Profile
 
