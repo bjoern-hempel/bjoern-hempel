@@ -44,6 +44,13 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
   * Location finder service
   * Symfony / API Platform
   * On top of PostgreSQL/PostGIS
+  * Tools
+    * Symfony 6.3.11
+    * PHP 8.2.17
+    * PHPUnit 9.6.15
+    * PHPStan 1.10.50
+    * Semantic Versioning 2.0.0
+    * PSR12
 
 ## 2.3 Tutorials
 
