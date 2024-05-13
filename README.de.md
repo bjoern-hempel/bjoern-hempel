@@ -32,17 +32,29 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 
 ## 2.1 Entwickler von ixnode packages (Composer PHP packages)
 
-* https://github.com/ixnode
-* https://packagist.org/users/ixnode/
+* https://github.com/ixnode (2023/24)
+* https://packagist.org/users/ixnode/ (2023/24)
 
-## 2.2 Anleitungen
+## 2.2 Entwickler von [locate.place](https://locate.place/index.html)
+
+[locate.place](https://locate.place/index.html) ist ein umfassender Assistent für detaillierte Standortinformationen (aktueller Standort oder gesuchter Standort): Von Bevölkerungsdaten über Berginformationen bis hin zu Flughafeninformationen und Postleitzahlen. Mit einer einfachen Suche erhält man schnell Zugriff auf ein breites Spektrum an Daten zu fast jedem Ort der Welt, unterstützt durch direkte Links zu Wikipedia und eine benutzerfreundliche Funktion zur Ermittlung des aktuellen Standorts.
+
+* https://github.com/locate-place/react-app (2024)
+  * Standortfinder-GUI
+  * ReactJS/Typescript-API-Konsument
+* https://github.com/locate-place/php-location-api (2024)
+  * Standortbestimmungsdienst
+  * Symfony / API Platform
+  * Auf PostgreSQL/PostGIS aufbauend
+
+## 2.3 Anleitungen
 
 * [Vergleich von Testmethoden](https://github.com/friends-of-tutorials/comparison-of-test-methods) &mdash; (2019)
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages) &mdash; (2018)
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence) &mdash; (2018)
 * [How to install a software RAID on XenServer 7.6.2](https://github.com/friends-of-tutorials/xen-software-raid) &mdash; (2018)
 
-## 2.3 Bash
+## 2.4 Bash
 
 * [Change the colour space from CMYK to RGB](https://github.com/bjoern-hempel/bash-cmyk-to-rgb) &mdash; (2021)
 * [A backup mysql script](https://github.com/bjoern-hempel/backup-mysql) &mdash; (2019)
@@ -52,7 +64,7 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 * [An apache host viewer](https://github.com/bjoern-hempel/apache-host-viewer) &mdash; (2017)
 * [A project analyser](https://github.com/bjoern-hempel/project-analyser) &mdash; (2017)
 
-## 2.4 DevOps
+## 2.5 DevOps
 
 * [Docker Rezepte](https://github.com/ixnode/docker-recipes) &mdash; (2021)
 * [A how-to guide for creating a containerised server](https://github.com/friends-of-tutorials/containerized-server) &mdash; (2021)
@@ -60,13 +72,13 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy) &mdash; (2018)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater) &mdash; (2018)
 
-## 2.5 Sicherheit
+## 2.6 Sicherheit
 
 * [Absicherung von Webanwendungen](https://github.com/friends-of-tutorials/web-application-security) &mdash; (2019)
 * [Systemhärtung](https://github.com/friends-of-tutorials/system-hardening) &mdash; (2018)
 * [Anleitung zum sicheren Übertragen von Nachrichten](https://github.com/friends-of-tutorials/securely-transfer-messages) &mdash; (2018)
 
-## 2.6 PHP
+## 2.7 PHP
 
 * [PHPJsonBeautifier - A fully working PHP sample project](https://github.com/ixnode/php-json-beautifier) &mdash; (2021)
     * Symfony 5.3
@@ -89,7 +101,7 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 * [A PHP WebCrawler (Ixnode)](https://github.com/ixnode/php-web-crawler) &mdash; (2024)
 * [A PNG Creator from latex formulas](https://github.com/bjoern-hempel/php-latex-2-png) &mdash; (2018)
 
-## 2.7 Javascript
+## 2.8 Javascript
 
 * [A Javascript Storage Manager](https://github.com/bjoern-hempel/js-storage-manager) &mdash; (2019)
 * [A Javascript Numerical Analysis Library](https://github.com/bjoern-hempel/js-analysis) &mdash; (2018)
@@ -100,7 +112,7 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework) &mdash; (2018)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework) &mdash; (2018)
 
-## 2.8 Künstliche Intelligenz
+## 2.9 Künstliche Intelligenz
 
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence) &mdash; (2018)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks) &mdash; (2018)
@@ -109,7 +121,7 @@ Neben dem Beruf konnte ich erfolgreich meinen Bachelor-Abschluss in der Fachrich
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework) &mdash; (2018)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework) &mdash; (2018)
 
-## 2.9 Maschinelles Lernen (Deep Learning)
+## 2.10 Maschinelles Lernen (Deep Learning)
 
 * [Keras Machine Learning Framework](https://github.com/bjoern-hempel/keras-machine-learning-framework) &mdash; (2020)
 * [Keras Machine Learning Framework (Java Import Sources)](https://github.com/bjoern-hempel/keras-machine-learning-framework-java-sources) &mdash; (2019)
