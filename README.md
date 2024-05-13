@@ -33,14 +33,26 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * https://github.com/ixnode (2023)
 * https://packagist.org/users/ixnode/ (2023)
 
-## 2.2 Tutorials
+## 2.2 Developer of [locate.place](https://locate.place/index.html)
+
+[locate.place](https://locate.place/index.html) is a comprehensive assistant for detailed location information (current location or searched location): From population data and mountain details to airport information and postal codes. With a simple search, one quickly gains access to a wide array of data about nearly any place in the world, supported by direct links to Wikipedia and a user-friendly feature for detecting your current location.
+
+* https://github.com/locate-place/react-app (2024)
+  * Location finder gui
+  * ReactJS / Typescript API consumer
+* https://github.com/locate-place/php-location-api (2024)
+  * Location finder service
+  * Symfony / API Platform
+  * On top of PostgreSQL/PostGIS
+
+## 2.3 Tutorials
 
 * [Comparison of test methods](https://github.com/friends-of-tutorials/comparison-of-test-methods) &mdash; (2019)
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages) &mdash; (2018)
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence) &mdash; (2018)
 * [How to install a software RAID on XenServer 7.6.2](https://github.com/friends-of-tutorials/xen-software-raid) &mdash; (2018)
 
-## 2.3 Bash
+## 2.4 Bash
 
 * [Change the colour space from CMYK to RGB](https://github.com/bjoern-hempel/bash-cmyk-to-rgb) &mdash; (2021)
 * [A backup mysql script](https://github.com/bjoern-hempel/backup-mysql) &mdash; (2019)
@@ -50,7 +62,7 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * [An apache host viewer](https://github.com/bjoern-hempel/apache-host-viewer) &mdash; (2017)
 * [A project analyser](https://github.com/bjoern-hempel/project-analyser) &mdash; (2017)
 
-## 2.4 DevOps
+## 2.5 DevOps
 
 * [Docker Recipes](https://github.com/ixnode/docker-recipes) &mdash; (2021)
 * [A how-to guide for creating a containerised server](https://github.com/friends-of-tutorials/containerized-server) &mdash; (2021)
@@ -58,13 +70,13 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * [A deploy script](https://github.com/bjoern-hempel/bash-git-deploy) &mdash; (2018)
 * [A version updater script](https://github.com/bjoern-hempel/bash-git-version-updater) &mdash; (2018)
 
-## 2.5 Security
+## 2.6 Security
 
 * [Web Application Security](https://github.com/friends-of-tutorials/web-application-security) &mdash; (2019)
 * [System Hardening](https://github.com/friends-of-tutorials/system-hardening) &mdash; (2018)
 * [A tutorial to securely transfer messages](https://github.com/friends-of-tutorials/securely-transfer-messages) &mdash; (2018)
 
-## 2.6 PHP
+## 2.7 PHP
 
 * [PHPJsonBeautifier - A fully working PHP sample project](https://github.com/ixnode/php-json-beautifier) &mdash; (2021)
   * Symfony 5.3
@@ -87,7 +99,7 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * [A PHP WebCrawler (Ixnode)](https://github.com/ixnode/php-web-crawler) &mdash; (2024)
 * [A PNG Creator from latex formulas](https://github.com/bjoern-hempel/php-latex-2-png) &mdash; (2018)
 
-## 2.7 Javascript
+## 2.8 Javascript
 
 * [A Javascript Storage Manager](https://github.com/bjoern-hempel/js-storage-manager) &mdash; (2019)
 * [A Javascript Numerical Analysis Library](https://github.com/bjoern-hempel/js-analysis) &mdash; (2018)
@@ -98,7 +110,7 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework) &mdash; (2018)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework) &mdash; (2018)
 
-## 2.8 Artificial Intelligence
+## 2.9 Artificial Intelligence
 
 * [An introduction to artificial intelligence](https://github.com/friends-of-ai/an-introduction-to-artificial-intelligence) &mdash; (2018)
 * [Create neuronal networks](https://github.com/friends-of-ai/create-neuronal-networks) &mdash; (2018)
@@ -107,7 +119,7 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 * [A javascript reinforcement learning framework](https://github.com/bjoern-hempel/js-reinforcement-learning-framework) &mdash; (2018)
 * [A javascript decision tree framework.](https://github.com/bjoern-hempel/js-decision-tree-framework) &mdash; (2018)
 
-## 2.9 Machine Learning (Deep Learning)
+## 2.10 Machine Learning (Deep Learning)
 
 * [Keras Machine Learning Framework](https://github.com/bjoern-hempel/keras-machine-learning-framework) &mdash; (2020)
 * [Keras Machine Learning Framework (Java Import Sources)](https://github.com/bjoern-hempel/keras-machine-learning-framework-java-sources) &mdash; (2019)
