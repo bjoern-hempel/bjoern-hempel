@@ -23,6 +23,7 @@ Science) with a minor in Artificial Intelligence and Machine Learning at the [TU
 
 ## 1.1 Profiles
 
+* **Personal**: [hempel.li](https://www.hempel.li/)
 * **XING**: [xing.com](https://www.xing.com/profile/Bjoern_Hempel14)
 * **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/bjoernhempel)
 
